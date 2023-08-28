@@ -3,7 +3,7 @@
 const heldFor = 2;
 const income = 0;
 const boughtFor = 0;
-const soldFor =        8250000     ;
+const soldFor =     2490000  ;
 const taxable = soldFor - boughtFor;
 let finalState = '';
 
